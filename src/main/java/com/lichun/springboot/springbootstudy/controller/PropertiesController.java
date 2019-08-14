@@ -30,7 +30,8 @@ public class PropertiesController {
     }
 
     @GetMapping("/method3")
-    public SpecialProperties getPropertyMethod3() {
+    public SpecialProperties getPropertyMethod44444() {
         return specialProperties;
     }
+
 }
