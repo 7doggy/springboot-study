@@ -1,5 +1,6 @@
 server:
-  port: 8080
+  #port: ${random.int(2000,8000)}
+  port: 9090
 
 
 management:
